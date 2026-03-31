@@ -12,7 +12,7 @@ header-includes:
 - PHY411: Do problems 1–3 (skip 3c)
 - PHY 506: Do problems 1-3 (do 3c)
 
-Accept the assignment from github classroom: https://classroom.github.com/a/xyz. This will create a new repository for you on github, titled something like `compphys-midterm2-username`.
+Accept the assignment from github classroom: https://classroom.github.com/a/uXZdCOKe . This will create a new repository for you on github, titled something like `compphys-midterm2-username`.
 You should submit your code through github classroom, and your writeup through UBLearns. If you prefer, you can do your writeup "in-line" in your notebooks (using Markdown cells), convert the notebook to HTML/PDF/etc., and upload the converted notebooks.
 
 If you are using the Docker container, do a `docker pull ubsuny/compphys:latest` to pull the latest version, which includes necessary packages like `jax`, `flax`, `tensorflow_datasets`, and `galaxy_datasets` (this is a custom TFDS wrapper for the GalaxyMNIST dataset). If you are not using the Docker container, you can `pip install` the necessary packages into your preferred environment. 
